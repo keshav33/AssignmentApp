@@ -12,6 +12,7 @@ function Home() {
                 <div className='left'>
                 <SearchEmployee></SearchEmployee>
                 </div>
+                <input></input>
             </div>
         </div>
     )
